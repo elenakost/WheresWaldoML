@@ -5,4 +5,4 @@ To train:
   - python3 Training.py
   
 To test:
-  - python3 ImageRecognition.py <IMAGE FILE>
+  - python3 ImageRecognition.py IMAGE_FILE
