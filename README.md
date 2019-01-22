@@ -6,4 +6,4 @@ To train:
   - `python3 Training.py`
   
 To test:
-  - `python3 ImageRecognition.py IMAGE_FILE`
+  - `python3 CustomImageRecognition.py IMAGE_FILE`
